@@ -1,12 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.dealer.caucho</groupId>
-	<artifactId>ddc-hessian</artifactId>
+	<groupId>com.caucho</groupId>
+	<artifactId>hessian</artifactId>
 	<packaging>jar</packaging>
-	<version>4.0.31</version>
+	<version>4.0.31-DDC-0.0.1</version>
 	<name>Hessian Binary Web Service</name>
-	<url>http://hessian.caucho.com</url>
+    <url>https://github.com/DealerDotCom/hessian</url>
 
 	<licenses>
 		<license>
